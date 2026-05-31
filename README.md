@@ -1,4 +1,4 @@
-# 🐶 Soggy Dog Games
+# Soggy Dog Games
 
 **Soggy Dog, off the leash.**
 
