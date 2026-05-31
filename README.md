@@ -1,16 +1,41 @@
-## Hi there 👋
+# 🐶 Soggy Dog Games
 
-<!--
-**soggydog-games/soggydog-games** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Soggy Dog, off the leash.**
 
-Here are some ideas to get you started:
+Solo pixel art game developer. Making small, warm, slightly chaotic games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎮 Currently
+
+- Learning pixel art (Aseprite)
+- Building my first game
+- Moving forward, one pixel at a time
+
+---
+
+## 🛠️ Tools I use
+
+- **Aseprite** — pixel art
+- **Git / GitHub** — version control
+- **Unity** — game development
+
+---
+
+## 📱 Find me elsewhere
+
+- Instagram: [@soggydog.games](https://instagram.com/soggydog.games)
+- TikTok: [@soggydog.games](https://tiktok.com/@soggydog.games)
+- Email: soggydog.games@gmail.com
+
+---
+
+## 🌱 Currently focused on
+
+- Making my first complete pixel art game
+- Building good habits as a solo dev
+- Growing Soggy Dog, one pixel at a time
+
+---
+
+*"Moving forward, one pixel at a time."*
